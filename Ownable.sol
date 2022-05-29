@@ -3,7 +3,7 @@
 
 pragma solidity 0.6.12;
 
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Context.sol";
+import "https://github.com/HuzaifaKhanDeveloper/Contracts/blob/main/Context.sol";
 
 /**
  * @dev Contract module which provides a basic access control mechanism, where
